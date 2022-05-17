@@ -4,3 +4,6 @@ h1{
 p{
     font-size: 1rem;
 }
+h1{
+    display: flex;
+}
