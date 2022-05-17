@@ -1,9 +1,7 @@
 h1{
     color: red;
+    display: flex;
 }
 p{
     font-size: 1rem;
-}
-h1{
-    display: flex;
 }
